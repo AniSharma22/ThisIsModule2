@@ -1,4 +1,4 @@
-package main
+package dog
 
 import "fmt"
 
@@ -7,7 +7,3 @@ func Barks(){
 	fmt.print("wooof wooof")
 }
 
-func main(){
-
-	_ = "apple"
-}
